@@ -1,0 +1,9 @@
+{
+    "name": "val3dity",
+    "version": "2.3.0",
+    "dependencies": [
+      "cgal",
+      "eigen3",
+      "geos"
+    ]
+  }
